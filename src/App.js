@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import Music from './Music'; // Si decides agregar música de fondo nuevamente
+// Si decides agregar música de fondo nuevamente
 import Confetti from 'react-confetti';
 
 
